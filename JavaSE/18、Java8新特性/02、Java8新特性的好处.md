@@ -1,0 +1,6 @@
+- 速度更快
+- 代码更少(增加了新的语法：Lambda 表达式)
+- 强大的Stream API
+- 便于并行
+- 最大化减少空指针异常：Optional
+- Nashorn引擎，允许在JVM上运行JS应用
